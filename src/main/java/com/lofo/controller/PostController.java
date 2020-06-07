@@ -9,7 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-public class PostController {
+public class
+PostController {
 
     List<PostDTO> postDTOList = new ArrayList<>();
 
